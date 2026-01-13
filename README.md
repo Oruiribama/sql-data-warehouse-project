@@ -33,6 +33,10 @@ These insights empowers stakeholders with key business metrics, enabling strateg
 
 --- 
 
+## 🎗️ License
+
+This Project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
 ## ✨ About Me
 
 Hi there! I'm **Sampson Oruiribama**. I'm a Data analyst with hands-on experience in Python, SQL, Power BI, Excel and Looker Studio, combining analytical rigor with sustainability and business insight to build end-to-end, impact-driven data projects.
